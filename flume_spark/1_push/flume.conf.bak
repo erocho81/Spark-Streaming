@@ -1,0 +1,15 @@
+#Declare components
+<FILL IN>
+
+# SOURCE CONFIGURATION
+# --------------------------------
+<FILL IN>
+
+# CHANNEL CONFIGURATION
+# --------------------------------
+# Teneis que fijar el atributo byte capacity a 6912212
+<FILL IN>
+
+# SINK CONFIGURATION
+# --------------------------------
+<FILL IN>
